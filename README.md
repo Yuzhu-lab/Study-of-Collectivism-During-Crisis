@@ -3,7 +3,7 @@ Stevens Research Fellowship Proram - Under the guidance of Dr. Joelle Saad-Lessl
 
 ## Project Description
 * Create Age-Collectivism profile Time Series utilizing HRS data
-* model the impact from education, income level, gender, race, marital status on Collectivism
+* Model the impact from education, income level, gender, race, marital status on Collectivism
 * Test how level of collectivism changed under financial crisis through regression analysis
 
 ## Collectivisim Index Description
